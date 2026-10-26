@@ -1,6 +1,5 @@
 package com.example.flight.booking;
 
-import java.lang.*;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
